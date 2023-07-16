@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "EnergyDataModel"
+  site-url: "https://sebaheg.github.io/EnergyDataModel"
+  description: "Data model for energy."
+  repo-branch: main
+  repo-url: "https://github.com/sebaheg/EnergyDataModel"
