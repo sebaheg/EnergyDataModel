@@ -1,0 +1,1 @@
+Sitemap: https://sebaheg.github.io/EnergyDataModel/sitemap.xml
